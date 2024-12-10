@@ -1,0 +1,68 @@
+[
+    {
+        "id": "1",
+        "image": "https://i.postimg.cc/FzLSK1RM/istockphoto-1342297981-170667a.jpg",
+        "serviceName": "Career Counseling Sessions",
+        "category": "Online",
+        "description": "Personalized career guidance to help you choose the right path and achieve your goals.",
+        "pricing": "$50 per session",
+        "duration": "05-12-24 5-6pm",
+        "counselor": "Dr. Sarah Johnson",
+        "rating": 4.8
+    },
+    {
+        "id": "2",
+        "image": "https://i.postimg.cc/bYsRkzrM/1140-reviewing-resumes.jpg",
+        "serviceName": "Resume Review",
+        "category": "Online",
+        "description": "Get your resume professionally reviewed to stand out in job applications.",
+        "pricing": "$30 per review",
+        "duration": "Open Booking",
+        "counselor": "John Doe",
+        "rating": 4.5
+    },
+    {
+        "id": "3",
+        "image": "https://i.postimg.cc/xTmyptK3/young-asian-business-creative-team-600nw-1670616517.webp",
+        "serviceName": "Group Career Workshops",
+        "category": "Group",
+        "description": "Interactive sessions to learn about job market trends and skills.",
+        "pricing": "$20 per participant",
+        "duration": "10-12-24 3-5pm",
+        "counselor": "Emily Davis",
+        "rating": 4.7
+    },
+    {
+        "id": "4",
+        "image": "https://i.postimg.cc/xTLM3q2s/One-2-One-Mentorship.webp",
+        "serviceName": "One-on-One Mentorship",
+        "category": "Offline",
+        "description": "Intensive mentorship sessions tailored to your career growth.",
+        "pricing": "$100 per session",
+        "duration": "20-12-24 10-11am",
+        "counselor": "Michael Scott",
+        "rating": 4.9
+    },
+    {
+        "id": "5",
+        "image": "https://i.postimg.cc/W1jrWjps/prepare-interviews-featured.png",
+        "serviceName": "Job Interview Preparation",
+        "category": "Online",
+        "description": "Prepare for your job interviews with mock interviews and feedback.",
+        "pricing": "$40 per session",
+        "duration": "15-12-24 2-3pm",
+        "counselor": "Laura Green",
+        "rating": 4.6
+    },
+    {
+        "id": "6",
+        "image": "https://i.postimg.cc/y6ZZ7WkV/medium-illustration-people-arrows.jpg",
+        "serviceName": "Career Path Exploration",
+        "category": "Online",
+        "description": "Explore various career options and find the one that fits your skills and passions.",
+        "pricing": "$45 per session",
+        "duration": "25-12-24 4-5pm",
+        "counselor": "David White",
+        "rating": 4.7
+    }
+]

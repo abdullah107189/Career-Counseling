@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "How to Ace Your Next Interview",
+        "author": "Jane Doe",
+        "date": "12th Nov 2024",
+        "thumbnail": "https://i.postimg.cc/ZYVN8hm1/bg.png",
+        "excerpt": "Practical tips to help you impress recruiters and land your dream job.",
+        "content": "Interviews can be a daunting process, but with the right preparation, you can ace them. Start by researching the company, practicing common interview questions, and dressing appropriately. Make sure to also showcase your enthusiasm and skills relevant to the job. Your first impression is crucial, so ensure you're prepared and confident."
+    },
+    {
+        "id": 2,
+        "title": "The Art of Resume Writing",
+        "author": "John Smith",
+        "date": "8th Nov 2024",
+        "thumbnail": "https://i.postimg.cc/ZYVN8hm1/bg.png",
+        "excerpt": "Create a resume that stands out and catches the recruiter's attention.",
+        "content": "Your resume is your first opportunity to impress potential employers. Focus on highlighting your skills, experience, and accomplishments clearly and concisely. Use bullet points for easy readability, and tailor your resume to the job you're applying for. Make sure to proofread for any errors and ensure your contact information is up-to-date."
+    },
+    {
+        "id": 3,
+        "title": "Top 5 Careers for 2025",
+        "author": "Sarah Lee",
+        "date": "1st Nov 2024",
+        "thumbnail": "https://i.postimg.cc/ZYVN8hm1/bg.png",
+        "excerpt": "Explore the most in-demand careers and how to prepare for them.",
+        "content": "As technology continues to evolve, new career paths are emerging. Some of the top careers for 2025 include AI and machine learning specialists, digital marketers, cybersecurity experts, healthcare professionals, and environmental engineers. To prepare, focus on gaining relevant skills, certifications, and staying updated with industry trends."
+    },
+    {
+        "id": 4,
+        "title": "Networking Tips for Job Seekers",
+        "author": "Emily Roberts",
+        "date": "25th Oct 2024",
+        "thumbnail": "https://i.postimg.cc/ZYVN8hm1/bg.png",
+        "excerpt": "Learn how to build meaningful connections that will help you advance your career.",
+        "content": "Networking is an essential part of job searching. Attend industry events, webinars, and conferences to meet professionals in your field. Don't hesitate to reach out to potential mentors or peers on LinkedIn, and always personalize your connection request. Building genuine relationships can open doors to new opportunities."
+    },
+    {
+        "id": 5,
+        "title": "Mastering Time Management for Professionals",
+        "author": "Michael Brown",
+        "date": "18th Oct 2024",
+        "thumbnail": "https://i.postimg.cc/ZYVN8hm1/bg.png",
+        "excerpt": "Improve your productivity and reduce stress with these effective time management strategies.",
+        "content": "Time management is crucial in today’s fast-paced work environment. Prioritize tasks based on importance, break large projects into smaller tasks, and use tools like calendars or task management apps to stay organized. Don't forget to take breaks to avoid burnout, and always reflect on your productivity at the end of each day."
+    },
+    {
+        "id": 6,
+        "title": "How to Transition Into a New Career",
+        "author": "Olivia Harris",
+        "date": "10th Oct 2024",
+        "thumbnail": "https://i.postimg.cc/ZYVN8hm1/bg.png",
+        "excerpt": "A step-by-step guide to successfully switching industries or roles.",
+        "content": "Switching careers can be challenging but rewarding. Start by identifying transferable skills from your current job and aligning them with the new career you're interested in. Network with professionals in your target industry and take online courses to bridge any skill gaps. Be patient and open to starting at a junior level as you build your experience."
+    },
+    {
+        "id": 7,
+        "title": "The Power of Personal Branding",
+        "author": "Daniel Clark",
+        "date": "5th Oct 2024",
+        "thumbnail": "https://i.postimg.cc/ZYVN8hm1/bg.png",
+        "excerpt": "Build a strong personal brand to stand out in the competitive job market.",
+        "content": "Personal branding is more than just having a professional online presence; it's about showcasing your expertise and personality. Start by building an impressive LinkedIn profile, creating content in your field, and engaging with others online. Make sure your personal brand is consistent across all platforms, and always focus on adding value to your audience."
+    },
+    {
+        "id": 8,
+        "title": "Remote Work: How to Stay Productive",
+        "author": "Charlotte Walker",
+        "date": "30th Sept 2024",
+        "thumbnail": "https://i.postimg.cc/ZYVN8hm1/bg.png",
+        "excerpt": "Tips for maintaining focus and productivity while working from home.",
+        "content": "Remote work comes with its own set of challenges, from distractions at home to communication gaps with colleagues. To stay productive, set clear boundaries between work and personal time, create a dedicated workspace, and use collaboration tools effectively. Also, maintain regular check-ins with your team to ensure alignment and stay connected."
+    }
+]
